@@ -1,6 +1,6 @@
-# Happy Bear - Logika Matematika
+# Happy Bear - Sistem Digital
 
-Happy Bear is a team created to complete the "Logika Matematika" coursework. Consists of four people and together work on resume materials.
+Happy Bear is a team created to complete the "System Digital" coursework. Consists of four people and together work on resume materials.
 
 # Member
 
@@ -14,4 +14,4 @@ Happy Bear is a team created to complete the "Logika Matematika" coursework. Con
 Sigit Wijanarko, S.Kom., M.Kom
 
 
-<a href="https://happybear007.github.io/Log-Mat/"> Happy Bear </a>
+<a href="https://happybear007.github.io/Sistem-Digital/"> Happy Bear </a>
